@@ -7,3 +7,10 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+bin/
+include/
+lib/
+/lib64
+*.swp
+
+
